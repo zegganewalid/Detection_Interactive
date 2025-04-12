@@ -113,8 +113,8 @@ Si vous souhaitez créer vous-même l'exécutable à partir du code source :
 
 ## Licence
 
-[Précisez ici la licence de votre choix]
+Cette application est distribuée sous la licence MIT.
 
 ## Contact
 
-Pour toute question ou suggestion, veuillez contacter : [Votre email ou autre contact]
+Pour toute question ou suggestion, veuillez contacter : zegganewalid11@gmaill.com
